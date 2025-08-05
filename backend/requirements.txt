@@ -34,7 +34,6 @@ requests>=2.31.0
 selenium>=4.15.0
 
 # ML dependencies
-torch
 transformers
 onnxruntime
 nltk>=3.8.1
